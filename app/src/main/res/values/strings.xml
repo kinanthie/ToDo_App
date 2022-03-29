@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="bsignin">SIGN IN</string>
+    <string name="enama">Masukkan Nama</string>
+    <string name="epass">Masukkan Password</string>
+    <string name="bregister">Register</string>
+    <string name="tpassword">Password</string>
+    <string name="eenama">masukkan nama</string>
+    <string name="epassword">masukkan password</string>
+    <string name="eemail">masukkan email</string>
+    <string name="etask">Masukkan Task</string>
+    <string name="ejenis">Masukkan jenis Task</string>
+    <string name="etime">Masukkan Lama Task</string>
+</resources>
